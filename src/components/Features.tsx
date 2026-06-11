@@ -10,7 +10,7 @@ const features = [
     color: 'from-violet-500 to-fuchsia-500',
     title: 'AI-Powered Automation',
     description:
-      'Automate repetitive tasks with intelligent workflows that learn and adapt to your team's unique processes over time.',
+      "Automate repetitive tasks with intelligent workflows that learn and adapt to your team's unique processes over time.",
   },
   {
     icon: (
@@ -21,7 +21,7 @@ const features = [
     color: 'from-fuchsia-500 to-pink-500',
     title: 'Real-Time Collaboration',
     description:
-      'Work seamlessly with your team in real time. Share projects, leave comments, and track changes — all in one place.',
+      'Work seamlessly with your team in real time. Share projects, leave comments, and track changes \ all in one place.',
   },
   {
     icon: (
